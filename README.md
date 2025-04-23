@@ -15,9 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelyn-senai&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyndacrebs&layout=compact&langs_count=6&theme=radical" alt="Top Languages"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-senai&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lyndacrebs&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 ---
